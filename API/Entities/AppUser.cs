@@ -6,4 +6,5 @@ public class AppUser
   public required string UserName { get; set; }
 
   public string? Surname { get; set; }
+  public string? Address { get; set; }
 }
