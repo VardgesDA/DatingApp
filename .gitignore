@@ -483,6 +483,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Ignore SSL certificates
+client/ssl/
+
 # Vim temporary swap files
 *.swp
 API/appsettings.json
