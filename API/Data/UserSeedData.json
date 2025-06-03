@@ -1,0 +1,192 @@
+[
+  {
+    "UserName": "Lisa",
+    "Gender": "female",
+    "DateOfBirth": "1956-07-22",
+    "KnownAs": "Lisa",
+    "Created": "2020-06-24",
+    "LastActive": "2020-06-21",
+    "Introduction": "I'm a warm and thoughtful person who enjoys quiet evenings, great conversation, and spending time outdoors. Life has taught me to appreciate the little things.",
+    "LookingFor": "Looking for a kind and genuine companion who values honesty, laughter, and shared experiences. Someone who enjoys meaningful connection and is ready for a new chapter.",
+    "Interests": "Gardening, reading, long walks, and classic movies.",
+    "City": "Greenbush",
+    "Country": "Martinique",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/women/54.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Karen",
+    "Gender": "female",
+    "DateOfBirth": "1995-10-12",
+    "KnownAs": "Karen",
+    "Created": "2019-12-09",
+    "LastActive": "2020-05-06",
+    "Introduction": "I’m an energetic and creative soul who loves art, live music, and spontaneous road trips. Always up for an adventure!",
+    "LookingFor": "Seeking someone passionate, curious, and kind-hearted. Let's share laughs, travel stories, and late-night snacks.",
+    "Interests": "Photography, painting, hiking, and indie films.",
+    "City": "Celeryville",
+    "Country": "Grenada",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/women/50.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Margo",
+    "Gender": "female",
+    "DateOfBirth": "1959-01-24",
+    "KnownAs": "Margo",
+    "Created": "2019-08-10",
+    "LastActive": "2020-05-12",
+    "Introduction": "Calm, curious, and a great listener. I love cozy mornings with coffee and meaningful conversations.",
+    "LookingFor": "Looking for someone sincere and emotionally mature, who enjoys a slower pace of life and values loyalty and laughter.",
+    "Interests": "Knitting, classic novels, tea, and gardening.",
+    "City": "Rosewood",
+    "Country": "Svalbard and Jan Mayen Islands",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/women/14.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Lois",
+    "Gender": "female",
+    "DateOfBirth": "1988-06-22",
+    "KnownAs": "Lois",
+    "Created": "2019-04-24",
+    "LastActive": "2020-06-17",
+    "Introduction": "Creative mind, foodie heart. I love discovering hidden gems in the city and diving into a good book or podcast.",
+    "LookingFor": "Someone open-minded and kind, with a sense of humor and a love for new experiences.",
+    "Interests": "Cooking, travel, podcasts, and yoga.",
+    "City": "Orviston",
+    "Country": "Zimbabwe",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/women/11.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Ruthie",
+    "Gender": "female",
+    "DateOfBirth": "1956-01-12",
+    "KnownAs": "Ruthie",
+    "Created": "2019-04-30",
+    "LastActive": "2020-06-21",
+    "Introduction": "Friendly, down-to-earth, and always up for a chat. I enjoy peaceful days and genuine connection.",
+    "LookingFor": "Looking for someone respectful, honest, and ready to build something meaningful—no games.",
+    "Interests": "Nature walks, jigsaw puzzles, and old jazz records.",
+    "City": "Germanton",
+    "Country": "Antigua and Barbuda",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/women/84.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Todd",
+    "Gender": "male",
+    "DateOfBirth": "1950-02-07",
+    "KnownAs": "Todd",
+    "Created": "2019-04-29",
+    "LastActive": "2020-05-16",
+    "Introduction": "Easygoing, loyal, and a great cook. I enjoy sharing stories over a home-cooked meal and spending time with people who matter.",
+    "LookingFor": "A good-hearted woman who values family, laughter, and companionship.",
+    "Interests": "Fishing, cooking, classic cars, and history documentaries.",
+    "City": "Cliff",
+    "Country": "British Indian Ocean Territory",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/men/90.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Porter",
+    "Gender": "male",
+    "DateOfBirth": "1967-04-09",
+    "KnownAs": "Porter",
+    "Created": "2020-04-05",
+    "LastActive": "2020-06-23",
+    "Introduction": "Adventurous, thoughtful, and always learning. I believe life is better shared with someone who gets you.",
+    "LookingFor": "Looking for a partner to explore life with—someone who’s smart, kind, and a little quirky.",
+    "Interests": "Traveling, woodworking, jazz, and hiking.",
+    "City": "Welda",
+    "Country": "Christmas Island",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/men/87.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Mayo",
+    "Gender": "male",
+    "DateOfBirth": "1990-03-23",
+    "KnownAs": "Mayo",
+    "Created": "2020-03-14",
+    "LastActive": "2020-05-17",
+    "Introduction": "Tech geek with a love for nature. I enjoy deep talks, good coffee, and weekend road trips.",
+    "LookingFor": "Seeking someone smart, adventurous, and full of good energy. Let’s build something real.",
+    "Interests": "Coding, camping, photography, and sci-fi movies.",
+    "City": "Clarence",
+    "Country": "Burkina Faso",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/men/57.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Skinner",
+    "Gender": "male",
+    "DateOfBirth": "1952-12-01",
+    "KnownAs": "Skinner",
+    "Created": "2019-01-28",
+    "LastActive": "2020-06-07",
+    "Introduction": "Retired but not tired. I enjoy life's simple pleasures and meaningful connection. Bonus points if you love good conversation!",
+    "LookingFor": "Looking for a kind soul to enjoy retirement adventures, laughter, and quiet evenings together.",
+    "Interests": "Birdwatching, reading newspapers, classic films, and gardening.",
+    "City": "Herald",
+    "Country": "Poland",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/men/11.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Davis",
+    "Gender": "male",
+    "DateOfBirth": "1978-03-20",
+    "KnownAs": "Davis",
+    "Created": "2020-02-25",
+    "LastActive": "2020-06-11",
+    "Introduction": "Driven, respectful, and optimistic. I’m passionate about learning, personal growth, and finding someone to share life with.",
+    "LookingFor": "A thoughtful woman with a kind heart and a curious mind. Someone who enjoys deep conversations and shared goals.",
+    "Interests": "Running, audiobooks, DIY projects, and jazz music.",
+    "City": "Lupton",
+    "Country": "Luxembourg",
+    "Photos": [
+      {
+        "Url": "https://randomuser.me/api/portraits/men/93.jpg",
+        "IsMain": true
+      }
+    ]
+  }
+]
