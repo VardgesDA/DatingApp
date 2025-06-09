@@ -1,6 +1,7 @@
 {
   "[csharp]": {
     "editor.formatOnType": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.autoClosingBrackets": "always"
   }
 }

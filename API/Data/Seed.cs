@@ -38,4 +38,12 @@ public class Seed
 
     await context.SaveChangesAsync();
   }
+
+
+  // public static async Task DeleteAllUsers(DataContext context)
+  // {
+  //   var users = await context.Users.ToListAsync();
+  //   context.Users.RemoveRange(users);
+  //   await context.SaveChangesAsync();
+  // }
 }
