@@ -3,5 +3,8 @@
     "editor.formatOnType": true,
     "editor.formatOnSave": true,
     "editor.autoClosingBrackets": "always"
-  }
+  },
+  "editor.fontWeight": "500",
+  "editor.lineHeight": 21,
+  "editor.letterSpacing": 0.5,
 }
